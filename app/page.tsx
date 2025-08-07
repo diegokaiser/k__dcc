@@ -1,5 +1,6 @@
-import { Terminal } from "@/components/organisms";
 import Image from "next/image";
+import { Terminal } from "@/components/organisms";
+import { RRSSIcons } from "@/components/molecules";
 
 const bkgImage = '/assets/images/bkg.png'
 
@@ -15,6 +16,7 @@ export default function Home() {
         />
       </div>
       <Terminal />
+      <RRSSIcons />
     </>
   );
 }

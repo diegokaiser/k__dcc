@@ -1,0 +1,27 @@
+{
+  "tabs": {
+    "about": "About me",
+    "experience": "Work experience",
+    "skills": "Skills"
+  },
+  "about": {
+    "heading": "Starting ...\n\nAbout me loaded!",
+    "content": "My name is Diego, also known online as diegokaiser. I started as a graphic designer, surrounded by developers from whom I learned a lot and made my first steps in programming.\n\nToday I’ve been working for several years as a frontend developer, and I'm open to becoming a fullstack developer."
+  },
+  "experience": {
+    "heading": "Starting...\n\nJob experience loaded!",
+    "jobs": [
+      { "company": "Ayesa", "role": "Frontend Developer", "location": "Madrid" },
+      { "company": "MYM", "role": "Frontend Developer", "location": "Lima" },
+      { "company": "Liquid", "role": "Frontend Developer", "location": "Lima" }
+    ]
+  },
+  "skills": {
+    "heading": "Starting...\n\nSkills loaded!",
+    "items": [
+      "React             [=======================         ] (4y)",
+      "Vue               [===============                 ] (2y)",
+      "Typescript        [=======================         ] (4y)"
+    ]
+  }
+}

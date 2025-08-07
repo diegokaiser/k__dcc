@@ -1,0 +1,28 @@
+{
+  "tabs": {
+    "about": "Sobre mí",
+    "experience": "Experiencia laboral",
+    "skills": "Habilidades"
+  },
+  "about": {
+    "heading": "Iniciando ...\n\n¡Sobre mí cargado!",
+    "ascii": "__  __      __          __\n/ / / /___  / /___ _    / /\n/ /_/ / __ \\/ / __ `/   / / \n/ __  / /_/ / / /_/ /   /_/  \n/_/ /_/\\____/_/\\__,_/   (_)",
+    "content": "Me llamo Diego y en algunos lugares de la red me llaman diegokaiser. Empecé a trabajar como diseñador publicitario, rodeado de programadores y mucha curiosidad de quienes aprendí mucho y empecé mis promeros pasos en el mundo de la programación.\n\nAl día de hoy llevo varios años trabajando como frontend developer y no descarto dar el pase a fullstack."
+  },
+  "experience": {
+    "heading": "Iniciando...\n\n¡Experiencia laboral cargada!",
+    "jobs": [
+      { "company": "Ayesa", "role": "Frontend Developer", "location": "Madrid" },
+      { "company": "MYM", "role": "Frontend Developer", "location": "Lima" },
+      { "company": "Liquid", "role": "Frontend Developer", "location": "Lima" }
+    ]
+  },
+  "skills": {
+    "heading": "Iniciando...\n\n¡Habilidades cargadas!",
+    "items": [
+      "React             [=======================         ] (4y)",
+      "Vue               [===============                 ] (2y)",
+      "Typescript        [=======================         ] (4y)"
+    ]
+  }
+}
